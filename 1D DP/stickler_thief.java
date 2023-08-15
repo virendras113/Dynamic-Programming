@@ -3,6 +3,7 @@
 // Problem Link - https://practice.geeksforgeeks.org/problems/stickler-theif-1587115621/1?utm_source=gfg&utm_medium=article&utm_campaign=bottom_sticky_on_article
 
 // Approach - Dynamic Programming (Recursion -> Memoization -> Tabulation)
+//            If we choose to rob one house then we will jump on to the next to next house, or else we will just jump on to the immediate next house.
 
 class Solution
 {
